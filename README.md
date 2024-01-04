@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @FrankFuchs
+- Finised Advent of code 2023 :-), which was hard :-(.
 - Working @ https://ign.fr ,
 - 👀 I’m interested in ... nearly everything.
 - Learned pieces of iTowns in 2021
